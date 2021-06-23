@@ -85,6 +85,7 @@ button{
     #sedans{
         width: 30%;
         height: 70%;
+        border-radius: 5px 0 0 5px;
     }
     #suvs{
         width: 30%;
@@ -93,6 +94,7 @@ button{
     #luxury{
         width: 30%;
         height: 70%;
+        border-radius: 0 5px 5px 0;
     }
 }
 @media screen and (min-width:900px){
